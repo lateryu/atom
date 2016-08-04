@@ -17,3 +17,14 @@
 14. atom-html-preview  编辑器实时预览HTML页面
 15. atom-crags
 16 atom-beautify    格式化代码的，快捷键ctrl-alt-b
+
+项目中使用的有:
+atom-beautify@0.29.1
+├── emmet@2.4.3
+├── esformatter@1.24.0
+├── git-plus@5.13.4
+├── linter@1.11.4
+├── linter-eslint@7.1.3
+├── monokai@0.18.0
+├── react@0.15.0
+└── terminal-panel@1.14.1
